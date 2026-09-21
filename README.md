@@ -26,6 +26,7 @@ Demo Mode works without an API token and lets you test the interface, sounds and
 ![System diagnostics](screenshots/system-info.png)
 
 The diagnostics screen shows battery information, Wi-Fi status, API response status, JSON parsing status and alert counters.
+
 The firmware connects to Wi-Fi and uses the **alerts.in.ua API** to show alert state, alert start time, threat categories, battery information and API diagnostics directly on the Cardputer display.
 
 > **Demo Mode works without an API token.**
