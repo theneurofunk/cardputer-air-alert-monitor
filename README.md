@@ -7,6 +7,26 @@
 
 A compact real-time air-alert monitor for the original **M5Stack Cardputer / StampS3**.
 
+## Screenshots
+
+### Main screen
+
+![Main screen](docs/screenshots/home-screen.png)
+
+The main screen shows the current alert state, alert start time and available threat information for the monitored areas.
+
+### Demo Mode
+
+![Demo Mode](docs/screenshots/demo-mode.png)
+
+Demo Mode works without an API token and lets you test the interface, sounds and simulated alert scenarios.
+
+### System diagnostics
+
+![System diagnostics](docs/screenshots/system-info.png)
+
+The diagnostics screen shows battery information, Wi-Fi status, API response status, JSON parsing status and alert counters.
+
 The firmware connects to Wi-Fi and uses the **alerts.in.ua API** to show alert state, alert start time, threat categories, battery information and API diagnostics directly on the Cardputer display.
 
 > **Demo Mode works without an API token.**
